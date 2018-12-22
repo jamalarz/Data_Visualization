@@ -7,9 +7,9 @@
 
 
 ### Auteurs :
-*  Soufiane Fhiyil
-*  Mouhda Mohammed Reda
-*  Jamal Aourraz
+*  Soufiane Fhiyil (@soufiane95)
+*  Mouhda Mohammed Reda (@rida-mh)
+*  Jamal Aourraz (@jamalarz)
 
 
 
